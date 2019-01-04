@@ -1,0 +1,71 @@
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\bin\x86\Release\smkmm52.exe.config
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\Interop.MSDAOSP.dll
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.csproj.ResolveComReference.cache
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\bin\x86\Release\smkmm52.exe
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\bin\x86\Release\smkmm52.pdb
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.contact.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_utama.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_anggota.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_guru.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_kelas.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_mengajar.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_pelajaran.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_siswa.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_walikelas.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_wilayah.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_konfigurasi.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_lap_guru.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_lap_siswa.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_lap_walikelas.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_login.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_user.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_kelas.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_perguru.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_persiswa.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_wakel.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.print.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.profil.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.Properties.Resources.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_guru.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_siswa.resources
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.csproj.GenerateResource.Cache
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\RdlCompile.cache
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\RdlCompile.compiled
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.exe
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.pdb
+F:\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.csprojResolveAssemblyReference.cache
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\bin\x86\Release\smkmm52.exe.config
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\Interop.LCC11.dll
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\Interop.MSDAOSP.dll
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.csproj.ResolveComReference.cache
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.exe
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.csprojResolveAssemblyReference.cache
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.contact.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_utama.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_anggota.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_guru.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_kelas.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_mengajar.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_pelajaran.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_siswa.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_walikelas.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_add_wilayah.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_konfigurasi.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_lap_guru.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_lap_siswa.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_lap_walikelas.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_login.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.fr_user.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_kelas.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_perguru.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_persiswa.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_wakel.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.print.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.profil.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.Properties.Resources.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_guru.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.report_siswa.resources
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.csproj.GenerateResource.Cache
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\bin\x86\Release\smkmm52.exe
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\bin\x86\Release\smkmm52.pdb
+F:\KERJA PRAKTEK AJA\BACKUP KP\PROGRAM\smkmm52\smkmm52\obj\x86\Release\smkmm52.pdb

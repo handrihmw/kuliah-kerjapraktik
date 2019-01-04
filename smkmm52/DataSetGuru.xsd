@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetGuru" targetNamespace="http://tempuri.org/DataSetGuru.xsd" xmlns:mstns="http://tempuri.org/DataSetGuru.xsd" xmlns="http://tempuri.org/DataSetGuru.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="db_smkmm52ykConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="db_smkmm52ykConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.smkmm52.Properties.Settings.GlobalReference.Default.db_smkmm52ykConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="lap_guruTableAdapter" GeneratorDataComponentClassName="lap_guruTableAdapter" Name="lap_guru" UserDataComponentName="lap_guruTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="db_smkmm52ykConnectionString (Settings)" DbObjectName="db_smkmm52yk.dbo.lap_guru" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        nip, nm_guru, jk, agama, tpt_lhr, tgl_lhr, alamat, provinsi, kabupaten, kecamatan, kelurahan, stts_menikah, stts_kepeg, jabatan, email, no_hp_guru
+FROM            lap_guru</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nip" DataSetColumn="nip" />
+              <Mapping SourceColumn="nm_guru" DataSetColumn="nm_guru" />
+              <Mapping SourceColumn="jk" DataSetColumn="jk" />
+              <Mapping SourceColumn="agama" DataSetColumn="agama" />
+              <Mapping SourceColumn="tpt_lhr" DataSetColumn="tpt_lhr" />
+              <Mapping SourceColumn="tgl_lhr" DataSetColumn="tgl_lhr" />
+              <Mapping SourceColumn="alamat" DataSetColumn="alamat" />
+              <Mapping SourceColumn="provinsi" DataSetColumn="provinsi" />
+              <Mapping SourceColumn="kabupaten" DataSetColumn="kabupaten" />
+              <Mapping SourceColumn="kecamatan" DataSetColumn="kecamatan" />
+              <Mapping SourceColumn="kelurahan" DataSetColumn="kelurahan" />
+              <Mapping SourceColumn="stts_menikah" DataSetColumn="stts_menikah" />
+              <Mapping SourceColumn="stts_kepeg" DataSetColumn="stts_kepeg" />
+              <Mapping SourceColumn="jabatan" DataSetColumn="jabatan" />
+              <Mapping SourceColumn="email" DataSetColumn="email" />
+              <Mapping SourceColumn="no_hp_guru" DataSetColumn="no_hp_guru" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetGuru" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetGuru" msprop:Generator_UserDSName="DataSetGuru">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="lap_guru" msprop:Generator_TableClassName="lap_guruDataTable" msprop:Generator_TableVarName="tablelap_guru" msprop:Generator_TablePropName="lap_guru" msprop:Generator_RowDeletingName="lap_guruRowDeleting" msprop:Generator_RowChangingName="lap_guruRowChanging" msprop:Generator_RowEvHandlerName="lap_guruRowChangeEventHandler" msprop:Generator_RowDeletedName="lap_guruRowDeleted" msprop:Generator_UserTableName="lap_guru" msprop:Generator_RowChangedName="lap_guruRowChanged" msprop:Generator_RowEvArgName="lap_guruRowChangeEvent" msprop:Generator_RowClassName="lap_guruRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nip" msprop:Generator_ColumnVarNameInTable="columnnip" msprop:Generator_ColumnPropNameInRow="nip" msprop:Generator_ColumnPropNameInTable="nipColumn" msprop:Generator_UserColumnName="nip">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="nm_guru" msprop:Generator_ColumnVarNameInTable="columnnm_guru" msprop:Generator_ColumnPropNameInRow="nm_guru" msprop:Generator_ColumnPropNameInTable="nm_guruColumn" msprop:Generator_UserColumnName="nm_guru">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jk" msprop:Generator_ColumnVarNameInTable="columnjk" msprop:Generator_ColumnPropNameInRow="jk" msprop:Generator_ColumnPropNameInTable="jkColumn" msprop:Generator_UserColumnName="jk">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="agama" msprop:Generator_ColumnVarNameInTable="columnagama" msprop:Generator_ColumnPropNameInRow="agama" msprop:Generator_ColumnPropNameInTable="agamaColumn" msprop:Generator_UserColumnName="agama">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tpt_lhr" msprop:Generator_ColumnVarNameInTable="columntpt_lhr" msprop:Generator_ColumnPropNameInRow="tpt_lhr" msprop:Generator_ColumnPropNameInTable="tpt_lhrColumn" msprop:Generator_UserColumnName="tpt_lhr">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="tgl_lhr" msprop:Generator_ColumnVarNameInTable="columntgl_lhr" msprop:Generator_ColumnPropNameInRow="tgl_lhr" msprop:Generator_ColumnPropNameInTable="tgl_lhrColumn" msprop:Generator_UserColumnName="tgl_lhr" type="xs:dateTime" />
+              <xs:element name="alamat" msprop:Generator_ColumnVarNameInTable="columnalamat" msprop:Generator_ColumnPropNameInRow="alamat" msprop:Generator_ColumnPropNameInTable="alamatColumn" msprop:Generator_UserColumnName="alamat">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="provinsi" msprop:Generator_ColumnVarNameInTable="columnprovinsi" msprop:Generator_ColumnPropNameInRow="provinsi" msprop:Generator_ColumnPropNameInTable="provinsiColumn" msprop:Generator_UserColumnName="provinsi">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="kabupaten" msprop:Generator_ColumnVarNameInTable="columnkabupaten" msprop:Generator_ColumnPropNameInRow="kabupaten" msprop:Generator_ColumnPropNameInTable="kabupatenColumn" msprop:Generator_UserColumnName="kabupaten">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="kecamatan" msprop:Generator_ColumnVarNameInTable="columnkecamatan" msprop:Generator_ColumnPropNameInRow="kecamatan" msprop:Generator_ColumnPropNameInTable="kecamatanColumn" msprop:Generator_UserColumnName="kecamatan">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="kelurahan" msprop:Generator_ColumnVarNameInTable="columnkelurahan" msprop:Generator_ColumnPropNameInRow="kelurahan" msprop:Generator_ColumnPropNameInTable="kelurahanColumn" msprop:Generator_UserColumnName="kelurahan">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="stts_menikah" msprop:Generator_ColumnVarNameInTable="columnstts_menikah" msprop:Generator_ColumnPropNameInRow="stts_menikah" msprop:Generator_ColumnPropNameInTable="stts_menikahColumn" msprop:Generator_UserColumnName="stts_menikah">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="stts_kepeg" msprop:Generator_ColumnVarNameInTable="columnstts_kepeg" msprop:Generator_ColumnPropNameInRow="stts_kepeg" msprop:Generator_ColumnPropNameInTable="stts_kepegColumn" msprop:Generator_UserColumnName="stts_kepeg">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="jabatan" msprop:Generator_ColumnVarNameInTable="columnjabatan" msprop:Generator_ColumnPropNameInRow="jabatan" msprop:Generator_ColumnPropNameInTable="jabatanColumn" msprop:Generator_UserColumnName="jabatan">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="email" msprop:Generator_ColumnVarNameInTable="columnemail" msprop:Generator_ColumnPropNameInRow="email" msprop:Generator_ColumnPropNameInTable="emailColumn" msprop:Generator_UserColumnName="email">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="no_hp_guru" msprop:Generator_ColumnVarNameInTable="columnno_hp_guru" msprop:Generator_ColumnPropNameInRow="no_hp_guru" msprop:Generator_ColumnPropNameInTable="no_hp_guruColumn" msprop:Generator_UserColumnName="no_hp_guru">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:lap_guru" />
+      <xs:field xpath="mstns:nip" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

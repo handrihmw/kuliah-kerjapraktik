@@ -1,0 +1,86 @@
+F:\A\smkmm52\smkmm52\bin\x86\Debug\smkmm52.exe.config
+F:\A\smkmm52\smkmm52\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+F:\A\smkmm52\smkmm52\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+F:\A\smkmm52\smkmm52\obj\x86\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+F:\A\smkmm52\smkmm52\obj\x86\Debug\Interop.LCC11.dll
+F:\A\smkmm52\smkmm52\obj\x86\Debug\Interop.MSDAOSP.dll
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.csproj.ResolveComReference.cache
+F:\A\smkmm52\smkmm52\bin\x86\Debug\smkmm52.exe
+F:\A\smkmm52\smkmm52\bin\x86\Debug\smkmm52.pdb
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.csprojResolveAssemblyReference.cache
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.contact.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_utama.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_anggota.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_guru.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_kelas.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_mengajar.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_pelajaran.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_siswa.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_walikelas.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_wilayah.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_konfigurasi.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_lap_guru.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_lap_siswa.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_lap_walikelas.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_login.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_user.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_perguru.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_persiswa.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_wakel.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.print.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.profil.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.Properties.Resources.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_guru.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_siswa.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_walikelas.resources
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.csproj.GenerateResource.Cache
+F:\A\smkmm52\smkmm52\obj\x86\Debug\RdlCompile.cache
+F:\A\smkmm52\smkmm52\obj\x86\Debug\RdlCompile.compiled
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.exe
+F:\A\smkmm52\smkmm52\obj\x86\Debug\smkmm52.pdb
+F:\MATERI KULIAH\smkmm52\smkmm52\bin\x86\Debug\smkmm52.exe.config
+F:\MATERI KULIAH\smkmm52\smkmm52\obj\x86\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+F:\MATERI KULIAH\smkmm52\smkmm52\obj\x86\Debug\Interop.CrystalReportViewerExportLib.dll
+F:\MATERI KULIAH\smkmm52\smkmm52\obj\x86\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+F:\MATERI KULIAH\smkmm52\smkmm52\obj\x86\Debug\Interop.LCC11.dll
+F:\MATERI KULIAH\smkmm52\smkmm52\obj\x86\Debug\Interop.MSDAOSP.dll
+F:\MATERI KULIAH\smkmm52\smkmm52\obj\x86\Debug\smkmm52.csproj.ResolveComReference.cache
+F:\MATERI KULIAH\smkmm52\smkmm52\obj\x86\Debug\smkmm52.exe
+F:\MATERI KULIAH\smkmm52\smkmm52\obj\x86\Debug\smkmm52.pdb
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\bin\x86\Debug\smkmm52.exe.config
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\Interop.MSDAOSP.dll
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.csproj.ResolveComReference.cache
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.exe
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.pdb
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\bin\x86\Debug\smkmm52.exe
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\bin\x86\Debug\smkmm52.pdb
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.csprojResolveAssemblyReference.cache
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.contact.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_utama.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_anggota.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_guru.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_kelas.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_mengajar.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_pelajaran.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_siswa.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_walikelas.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_add_wilayah.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_konfigurasi.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_lap_guru.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_lap_siswa.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_lap_walikelas.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_login.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.fr_user.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_perguru.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_persiswa.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_wakel.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.print.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.profil.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.Properties.Resources.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_guru.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_siswa.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.csproj.GenerateResource.Cache
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\RdlCompile.cache
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\RdlCompile.compiled
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\smkmm52.report_kelas.resources
+F:\KERJA PRAKTEK AJA\PROGRAM\smkmm52\smkmm52\obj\x86\Debug\Interop.LCC11.dll

@@ -1,0 +1,86 @@
+c:\users\wildan\documents\visual studio 2013\Projects\smkmm52\smkmm52\bin\Debug\smkmm52.exe.config
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\bin\Debug\smkmm52.exe
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\bin\Debug\smkmm52.pdb
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_utama.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_login.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.Properties.Resources.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.csproj.GenerateResource.Cache
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.exe
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.pdb
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_siswa.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.csprojResolveAssemblyReference.cache
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_guru.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_kelas.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_pelajaran.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_wilayah.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_mengajar.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_walikelas.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_anggota.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_konfigurasi.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_siswa.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_guru.resources
+C:\Users\wildan\Documents\Visual Studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_walikelas.resources
+C:\Users\wildan\documents\visual studio 2013\Projects\smkmm52\smkmm52\obj\Debug\smkmm52.lap_guru.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\bin\Debug\smkmm52.exe.config
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.exe
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.pdb
+C:\Users\wildan\Music\smkmm52\smkmm52\bin\Debug\smkmm52.exe
+C:\Users\wildan\Music\smkmm52\smkmm52\bin\Debug\smkmm52.pdb
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.csprojResolveAssemblyReference.cache
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_utama.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_anggota.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_guru.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_kelas.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_mengajar.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_pelajaran.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_siswa.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_walikelas.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_wilayah.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_konfigurasi.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_guru.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_siswa.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_walikelas.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.fr_login.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.lap_guru.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.Properties.Resources.resources
+C:\Users\wildan\Music\smkmm52\smkmm52\obj\Debug\smkmm52.csproj.GenerateResource.Cache
+F:\A\smkmm52\smkmm52\bin\Debug\smkmm52.exe.config
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.exe
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.pdb
+F:\A\smkmm52\smkmm52\bin\Debug\smkmm52.exe
+F:\A\smkmm52\smkmm52\bin\Debug\smkmm52.pdb
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.csprojResolveAssemblyReference.cache
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_utama.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_anggota.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_guru.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_kelas.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_mengajar.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_pelajaran.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_siswa.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_walikelas.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_add_wilayah.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_konfigurasi.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_guru.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_siswa.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_lap_walikelas.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_login.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.Properties.Resources.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.csproj.GenerateResource.Cache
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.contact.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.profil.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.csproj.ResolveComReference.cache
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.print.resources
+F:\A\smkmm52\smkmm52\obj\Debug\Interop.CrystalActiveXReportViewerLib13.dll
+F:\A\smkmm52\smkmm52\obj\Debug\Interop.CrystalReportViewerExportLib.dll
+F:\A\smkmm52\smkmm52\obj\Debug\Interop.CrystalReportViewerWebReportSourceLib.dll
+F:\A\smkmm52\smkmm52\obj\Debug\Interop.LCC11.dll
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.fr_user.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.report_guru.resources
+F:\A\smkmm52\smkmm52\obj\Debug\RdlCompile.cache
+F:\A\smkmm52\smkmm52\obj\Debug\RdlCompile.compiled
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.report_siswa.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.report_walikelas.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.report_perguru.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.report_persiswa.resources
+F:\A\smkmm52\smkmm52\obj\Debug\smkmm52.report_wakel.resources
+F:\A\smkmm52\smkmm52\obj\Debug\Interop.MSDAOSP.dll

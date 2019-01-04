@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6850B401-00B1-4192-81A1-A9E84C04A73C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>smkmm52</RootNamespace>
+    <AssemblyName>smkmm52</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="contact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="contact.Designer.cs">
+      <DependentUpon>contact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_add_anggota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_add_anggota.Designer.cs">
+      <DependentUpon>fr_add_anggota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_add_guru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_add_guru.Designer.cs">
+      <DependentUpon>fr_add_guru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_add_kelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_add_kelas.Designer.cs">
+      <DependentUpon>fr_add_kelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_add_mengajar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_add_mengajar.Designer.cs">
+      <DependentUpon>fr_add_mengajar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_add_pelajaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_add_pelajaran.Designer.cs">
+      <DependentUpon>fr_add_pelajaran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_add_siswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_add_siswa.Designer.cs">
+      <DependentUpon>fr_add_siswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_add_walikelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_add_walikelas.Designer.cs">
+      <DependentUpon>fr_add_walikelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_add_wilayah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_add_wilayah.Designer.cs">
+      <DependentUpon>fr_add_wilayah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_konfigurasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_konfigurasi.Designer.cs">
+      <DependentUpon>fr_konfigurasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_lap_guru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_lap_guru.Designer.cs">
+      <DependentUpon>fr_lap_guru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_lap_siswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_lap_siswa.Designer.cs">
+      <DependentUpon>fr_lap_siswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_lap_walikelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_lap_walikelas.Designer.cs">
+      <DependentUpon>fr_lap_walikelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_login.Designer.cs">
+      <DependentUpon>fr_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fr_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fr_user.Designer.cs">
+      <DependentUpon>fr_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fungsi.cs" />
+    <Compile Include="koneksi.cs" />
+    <Compile Include="lap.cs" />
+    <Compile Include="laporan.cs" />
+    <Compile Include="report_kelas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_kelas.Designer.cs">
+      <DependentUpon>report_kelas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_perguru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_perguru.Designer.cs">
+      <DependentUpon>report_perguru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_persiswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_persiswa.Designer.cs">
+      <DependentUpon>report_persiswa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_wakel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_wakel.Designer.cs">
+      <DependentUpon>report_wakel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyData.cs" />
+    <Compile Include="print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="print.Designer.cs">
+      <DependentUpon>print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="profil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="profil.Designer.cs">
+      <DependentUpon>profil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="report_guru.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_guru.Designer.cs">
+      <DependentUpon>report_guru.cs</DependentUpon>
+    </Compile>
+    <Compile Include="report_siswa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="report_siswa.Designer.cs">
+      <DependentUpon>report_siswa.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="contact.resx">
+      <DependentUpon>contact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_add_anggota.resx">
+      <DependentUpon>fr_add_anggota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_add_guru.resx">
+      <DependentUpon>fr_add_guru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_add_kelas.resx">
+      <DependentUpon>fr_add_kelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_add_mengajar.resx">
+      <DependentUpon>fr_add_mengajar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_add_pelajaran.resx">
+      <DependentUpon>fr_add_pelajaran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_add_siswa.resx">
+      <DependentUpon>fr_add_siswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_add_walikelas.resx">
+      <DependentUpon>fr_add_walikelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_add_wilayah.resx">
+      <DependentUpon>fr_add_wilayah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_konfigurasi.resx">
+      <DependentUpon>fr_konfigurasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_lap_guru.resx">
+      <DependentUpon>fr_lap_guru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_lap_siswa.resx">
+      <DependentUpon>fr_lap_siswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_lap_walikelas.resx">
+      <DependentUpon>fr_lap_walikelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_login.resx">
+      <DependentUpon>fr_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fr_user.resx">
+      <DependentUpon>fr_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rekelas.rdlc" />
+    <EmbeddedResource Include="reperguru.rdlc" />
+    <EmbeddedResource Include="repersiswa.rdlc" />
+    <EmbeddedResource Include="report_kelas.resx">
+      <DependentUpon>report_kelas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_perguru.resx">
+      <DependentUpon>report_perguru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_persiswa.resx">
+      <DependentUpon>report_persiswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_wakel.resx">
+      <DependentUpon>report_wakel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="print.resx">
+      <DependentUpon>print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="profil.resx">
+      <DependentUpon>profil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reguru.rdlc" />
+    <EmbeddedResource Include="report_guru.resx">
+      <DependentUpon>report_guru.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="report_siswa.resx">
+      <DependentUpon>report_siswa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="resiswa.rdlc" />
+    <EmbeddedResource Include="rewali.rdlc" />
+    <None Include="DataSet.xsc">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet.xss">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="CrystalActiveXReportViewerLib13">
+      <Guid>{B816E96D-D151-4000-BADB-53A2D8F3FC65}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportViewerExportLib">
+      <Guid>{5C21A516-C6AC-42F2-A7B7-846FFE1B122A}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="CrystalReportViewerWebReportSourceLib">
+      <Guid>{14173BA7-071D-4216-8C9B-EAB29A55E2D4}</Guid>
+      <VersionMajor>13</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="LCC11">
+      <Guid>{EDCD5812-6A06-43C3-AFAC-46EF5D14E22C}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="MSDAOSP">
+      <Guid>{E0E270C2-C0BE-11D0-8FE4-00A0C90A6341}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>5</VersionMinor>
+      <Lcid>1033</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cari2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forward.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
